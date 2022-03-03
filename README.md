@@ -5,7 +5,7 @@
 I have created the backend of Comment App using Nodejs.
 
 Functionality
-1.Sign-up where the user will be allowed to enter his emailID and password along
+1. Sign-up where the user will be allowed to enter his emailID and password along
 with a secret code. This data will be validated and sent to the backend where the
 data will be stored in a Database.
 2. Sign-in where the user will be allowed to enter his emailID and password. This
