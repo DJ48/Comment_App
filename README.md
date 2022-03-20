@@ -1,4 +1,4 @@
-# Comment App V2
+# Comment App
 
 ## Description
 
