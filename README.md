@@ -232,7 +232,7 @@ comments of the logged in user.
         }
         ```
 
-## Authors
+## Author
 
 Deepak Jaiswal
 
