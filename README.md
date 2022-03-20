@@ -29,7 +29,7 @@ comments of the logged in user.
 1. Install [Node.js](https://nodejs.org/en/) and [MySql](https://dev.mysql.com/downloads/installer/)
 2. Clone this repository and install the dependencies.
     ```
-      git clone https://github.com/DJ48/Zoho_App.git
+      git clone https://github.com/DJ48/Comment_App.git
       cd Zoho_App
       npm install
     ```     
